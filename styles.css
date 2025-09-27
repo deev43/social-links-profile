@@ -58,4 +58,14 @@ div{
     background-color: hsl(0, 0%, 20%);
     margin: 15px auto;
     padding: 15px;
+
+}
+
+div.link:hover{
+    background-color: hsl(75, 94%, 57%);
+}
+
+a.link{
+    color: white;
+    text-decoration: none;
 }
